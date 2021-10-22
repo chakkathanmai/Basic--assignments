@@ -1,4 +1,4 @@
-package javaAssignments;
+package com.training.basicAssignments;
 
 public class Bank {
         double balance=0;

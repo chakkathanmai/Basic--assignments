@@ -1,4 +1,4 @@
-package javaAssignments;
+package com.training.basicAssignments;
 import java.util.Scanner;
 public class SmallestOfThreeNumbers {
 	public static void main(String args[]) {

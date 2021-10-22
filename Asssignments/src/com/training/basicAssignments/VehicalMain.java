@@ -1,4 +1,4 @@
-package javaAssignments;
+package com.training.basicAssignments;
 public class VehicalMain {
 
 	public static void main(String[] args) {
