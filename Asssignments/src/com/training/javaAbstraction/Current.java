@@ -21,7 +21,7 @@ public class Current extends Bank {
 	void deposit(double amount) {
 		// TODO Auto-generated method stub
 		if(amount !=0) {
-		 balance=balance-amount+30;
+		 balance=balance+amount+30;
 		 System.out.println("Balance avilable after deposite: "+balance);
 	}else {
 		System.out.println("Enter the valid amount");
